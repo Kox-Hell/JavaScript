@@ -530,6 +530,10 @@ a {
     font-size: 1rem;
   }
 
+  .container-1 {
+    padding: 73px 80px 0 80px;
+  }
+
   .img-container {
     background-size: 45rem 33.375rem;
     width: 45rem;
